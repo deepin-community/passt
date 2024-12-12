@@ -1,0 +1,12 @@
+test_logs/
+mbuto/
+podman/
+*.img
+QEMU_EFI.fd
+*.qcow2
+*.raw
+*.raw.xz
+*.bin
+nstool
+guest-key
+guest-key.pub
